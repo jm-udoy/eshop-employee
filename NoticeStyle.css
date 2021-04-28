@@ -1,0 +1,26 @@
+p, h4{
+	color: #fff;
+	text-decoration: none;
+}
+
+
+.ticker{
+	display: flex;
+	flex-wrap: wrap;
+	width: 80%;
+	height: 60%;
+	margin: 0 auto;
+}
+
+.news{
+	width: 76%;
+	background: #cc4444;
+	padding: 0 2%;
+}
+
+.title{
+	width: 20%;
+	text-align: center;
+	background: #c81c1c;
+	position: relative;
+}
